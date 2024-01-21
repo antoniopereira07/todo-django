@@ -2,6 +2,15 @@
 
 Criando uma Lista de Tarefas com Django
 
+## Criar e ativar ambiente virtual no Linux/macOS:
+- python3 -m venv nome_do_ambiente
+- source nome_do_ambiente/bin/activate
+## Criar e ativar ambiente virtual no Windows:
+- python -m venv nome_do_ambiente
+- nome_do_ambiente\Scripts\activate
+## Desativar ambiente virtual em qualquer sistema operacional:
+- deactivate
+
 ## Execute o comando para instalar as dependências:
 - pip install -r requirements.txt
 
